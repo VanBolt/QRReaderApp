@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
     public static String bar_text_in = "";
     public static String pass_in = "";
-    public static String server = "http://ibolotov-001-site1.atempurl.com/Mobile/GetQR";
+    public static String server = "http://ivanbolotov-001-site1.ctempurl.com//Mobile/GetQR";
 
     public EditText edit_pass;
 
